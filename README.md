@@ -1,0 +1,2 @@
+# PokiSQL
+SQL Exercises
