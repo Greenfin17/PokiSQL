@@ -1,0 +1,1 @@
+SELECT count(Title) FROM Poem;

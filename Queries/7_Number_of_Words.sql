@@ -1,0 +1,1 @@
+SELECT SUM(WordCount) [Grand Total of Words] from Poem
